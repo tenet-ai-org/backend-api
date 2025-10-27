@@ -1,6 +1,6 @@
 # TenetAI Backend API
 
-FastAPI Backend for TenetAI.
+FastAPI Backend for TenetAI. Hosted on Railway.
 
 ## Setup + Local Testing
 
